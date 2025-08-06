@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server for querying and analyzing Wazuh security logs stored in OpenSearch.
 
+<a href="https://glama.ai/mcp/servers/@cyberbalsa/mcp-opensearch-js">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@cyberbalsa/mcp-opensearch-js/badge" alt="OpenSearch Server MCP server" />
+</a>
+
 ## Features
 
 - Search for security alerts with advanced filtering
